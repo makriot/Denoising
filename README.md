@@ -1,5 +1,4 @@
-# Denoising
-В репозитории находится ноутбук с реализацией трансформера, который применяется для денойзинга аудио.
-Также прикреплены веса pytorch модели и tensorboard логи.
+# Denoising speech
+In the repository, there is a notebook with an implementation of the Transformer, which is used for audio denoising. Also attached are the PyTorch model weights and TensorBoard logs.
 
-Статья: [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
+Article: Conformer: Convolution-augmented Transformer for Speech Recognition
